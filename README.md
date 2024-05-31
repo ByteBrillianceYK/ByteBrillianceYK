@@ -6,6 +6,7 @@ I'm a fourth-year BE student majoring in Artificial Intelligence and Machine Lea
 ## Skills
 - Full-stack Web Development
 - C++
+- Java
 - Machine Learning
 - Leadership and Communication
 
